@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a systems-oriented software engineer with a strong focus on backend, full-stack development, and GenAI workflows. I’ve built production-ready applications using Python, Node.js, MERN, Docker, and AWS, and enjoy designing APIs, automating systems, and solving real engineering problems.<br><br>I’ve worked on SaaS products, cloud integrations, and GenAI projects involving embeddings, LLMs, and early agentic AI patterns for task automation and decision support. I care about clean architecture, scalability, and building systems that actually hold up in the real world.
+I’m a software engineer with a strong focus on backend, full-stack development, and GenAI workflows. I’ve built production-ready applications using Python, Node.js, MERN, Docker, and AWS, and enjoy designing APIs, automating systems, and solving real engineering problems.<br><br>I’ve worked on SaaS products, cloud integrations, and GenAI projects involving embeddings, LLMs, and early agentic AI patterns for task automation and decision support. I care about clean architecture, scalability, and building systems that actually hold up in the real world.
 
 
 ## 🌐 Socials:
